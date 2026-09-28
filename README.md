@@ -12,3 +12,4 @@
 
 - [wxxw2233](https://wxxw2233.xyz/)
 - [eighttwo.millcraft.online](https://eighttwo.millcraft.online/)
+- [haogongsi](https://www.haogongsi.cn/)
