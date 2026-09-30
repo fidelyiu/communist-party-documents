@@ -13,3 +13,6 @@
 - [wxxw2233](https://wxxw2233.xyz/)
 - [eighttwo.millcraft.online](https://eighttwo.millcraft.online/)
 - [haogongsi](https://www.haogongsi.cn/)
+- [tdwc.luomor](https://tdwc.luomor.com/#/)
+- [shuangxiugou.vercel.app](https://shuangxiugou.vercel.app/)
+- [fuzzylogic112.github.io](https://fuzzylogic112.github.io/shuangxiugou-guide/)
