@@ -16,3 +16,4 @@
 - [tdwc.luomor](https://tdwc.luomor.com/#/)
 - [shuangxiugou.vercel.app](https://shuangxiugou.vercel.app/)
 - [fuzzylogic112.github.io](https://fuzzylogic112.github.io/shuangxiugou-guide/)
+- [996.icu](https://996.icu/)
